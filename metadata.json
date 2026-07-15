@@ -1,0 +1,6 @@
+{
+  "name": "TeleChat",
+  "description": "A modern, clean, and responsive chat application inspired by Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
